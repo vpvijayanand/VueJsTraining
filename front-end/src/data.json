@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "To Kill a Mockingbird",
+        "details": "A novel by Harper Lee published in 1960.",
+        "imageLink": "https://example.com/images/to-kill-a-mockingbird.jpg"
+    },
+    {
+        "id": 2,
+        "name": "1984",
+        "details": "A novel by George Orwell published in 1949.",
+        "imageLink": "https://example.com/images/1984.jpg"
+    },
+    {
+        "id": 3,
+        "name": "The Great Gatsby",
+        "details": "A novel by F. Scott Fitzgerald published in 1925.",
+        "imageLink": "https://example.com/images/the-great-gatsby.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "details": "A novel by Jane Austen published in 1813.",
+        "imageLink": "https://example.com/images/pride-and-prejudice.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Moby Dick",
+        "details": "A novel by Herman Melville published in 1851.",
+        "imageLink": "https://example.com/images/moby-dick.jpg"
+    },
+    {
+        "id": 6,
+        "name": "War and Peace",
+        "details": "A novel by Leo Tolstoy published from 1865 to 1869.",
+        "imageLink": "https://example.com/images/war-and-peace.jpg"
+    },
+    {
+        "id": 7,
+        "name": "The Odyssey",
+        "details": "An ancient Greek epic poem attributed to Homer.",
+        "imageLink": "https://example.com/images/the-odyssey.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ulysses",
+        "details": "A novel by James Joyce published in 1922.",
+        "imageLink": "https://example.com/images/ulysses.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The Catcher in the Rye",
+        "details": "A novel by J. D. Salinger published in 1951.",
+        "imageLink": "https://example.com/images/the-catcher-in-the-rye.jpg"
+    },
+    {
+        "id": 10,
+        "name": "The Lord of the Rings",
+        "details": "A novel by J. R. R. Tolkien published in 1954.",
+        "imageLink": "https://example.com/images/the-lord-of-the-rings.jpg"
+    },
+    {
+        "id": 11,
+        "name": "One Hundred Years of Solitude",
+        "details": "A novel by Gabriel Garcia Marquez published in 1967.",
+        "imageLink": "https://example.com/images/one-hundred-years-of-solitude.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Crime and Punishment",
+        "details": "A novel by Fyodor Dostoevsky published in 1866.",
+        "imageLink": "https://example.com/images/crime-and-punishment.jpg"
+    },
+    {
+        "id": 13,
+        "name": "The Brothers Karamazov",
+        "details": "A novel by Fyodor Dostoevsky published in 1880.",
+        "imageLink": "https://example.com/images/the-brothers-karamazov.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Brave New World",
+        "details": "A novel by Aldous Huxley published in 1932.",
+        "imageLink": "https://example.com/images/brave-new-world.jpg"
+    },
+    {
+        "id": 15,
+        "name": "The Iliad",
+        "details": "An ancient Greek epic poem attributed to Homer.",
+        "imageLink": "https://example.com/images/the-iliad.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Madame Bovary",
+        "details": "A novel by Gustave Flaubert published in 1857.",
+        "imageLink": "https://example.com/images/madame-bovary.jpg"
+    },
+    {
+        "id": 17,
+        "name": "The Divine Comedy",
+        "details": "An epic poem by Dante Alighieri begun in 1308 and completed in 1320.",
+        "imageLink": "https://example.com/images/the-divine-comedy.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Great Expectations",
+        "details": "A novel by Charles Dickens published in 1861.",
+        "imageLink": "https://example.com/images/great-expectations.jpg"
+    },
+    {
+        "id": 19,
+        "name": "The Count of Monte Cristo",
+        "details": "A novel by Alexandre Dumas published in 1844.",
+        "imageLink": "https://example.com/images/the-count-of-monte-cristo.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Don Quixote",
+        "details": "A novel by Miguel de Cervantes published in two parts in 1605 and 1615.",
+        "imageLink": "https://example.com/images/don-quixote.jpg"
+    },
+    {
+        "id": 21,
+        "name": "The Picture of Dorian Gray",
+        "details": "A novel by Oscar Wilde published in 1890.",
+        "imageLink": "https://example.com/images/the-picture-of-dorian-gray.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Frankenstein",
+        "details": "A novel by Mary Shelley published in 1818.",
+        "imageLink": "https://example.com/images/frankenstein.jpg"
+    },
+    {
+        "id": 23,
+        "name": "The Grapes of Wrath",
+        "details": "A novel by John Steinbeck published in 1939.",
+        "imageLink": "https://example.com/images/the-grapes-of-wrath.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Jane Eyre",
+        "details": "A novel by Charlotte Bronte published in 1847.",
+        "imageLink": "https://example.com/images/jane-eyre.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Wuthering Heights",
+        "details": "A novel by Emily Bronte published in 1847.",
+        "imageLink": "https://example.com/images/wuthering-heights.jpg"
+    }
+]
